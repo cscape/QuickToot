@@ -1,0 +1,17 @@
+{
+  "visibility": {
+    "direct": "Direct",
+    "private": "Private",
+    "unlisted": "Unlisted",
+    "public": "Public"
+  },
+  "options": {
+    "title_tab": "QuickToot Settings",
+    "page_title": "Settings",
+    "add_account": {
+      "type_an_instance_domain": "Type an instance domain:",
+      "domain_dot_tld": "cyberscape.co",
+      "sign_in_to_mastodon": "Sign in to Mastodon"
+    }
+  }
+}
